@@ -135,7 +135,7 @@ Context Map uses a **Living 4-Layer Map** structure that Claude builds and updat
 ║  ⚠️ BLOCKERS  : Unresolved issues or errors          ║
 ║  💡 DECISIONS : Locked — never re-debated            ║
 ╠══════════════════════════════════════════════════════╣
-║  LAYER 4 — LESSONS  ← The V2 Difference             ║
+║  LAYER 4 — LESSONS  ← The V2 Difference              ║
 ║  ❌ MISTAKES  : Errors made + how they were fixed    ║
 ║  🔒 CRITICAL  : If forgotten → breaks everything     ║
 ║  🔁 PATTERNS  : User preferences → apply immediately ║
