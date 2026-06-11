@@ -365,4 +365,4 @@ For questions, feedback, collaborations, or just to say it helped:
 **If this helped you — star the repo ⭐ and share it.**
 
 </div>
-EOF
+
