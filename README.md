@@ -21,7 +21,7 @@ No commands. No "save" button. No memory required. It just works.
 **Designed & Conceptualized by:** DDMA  
 **Email:** mr.ghost010245@gmail.com  
 **GitHub:** [DDMA-010245](https://github.com/DDMA-010245)  
-**Built With:** Claude (by [Anthropic](https://anthropic.com))
+**Built With:** Claude ([Anthropic](https://anthropic.com))
 
 > The problem statement, core idea, design decisions, and all version  
 > upgrades are original work by DDMA.  
